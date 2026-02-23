@@ -25,8 +25,8 @@ A lightweight, modular Python script that **monitors the OpenAI Status Page** fo
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/openai-status-monitor.git
-cd openai-status-monitor
+git clone https://github.com/Manishsingh89716/OPENAI_Status_Script.git
+cd OPENAI_Status_Script
 
 Create virtual environment (recommended):
 
